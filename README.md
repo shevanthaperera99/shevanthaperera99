@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Shevantha Perera<br><br>Software Engineer @CareHires
+<b>Hi I'm Shevantha Perera</b><br>Software Engineer @CareHires
 
 
 # 💻 Tech Stack:
